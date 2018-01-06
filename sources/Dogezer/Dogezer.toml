@@ -19,8 +19,8 @@ headline = "Do Software Together"
 
 [crowdsales]
 start_date = "2018-01-15T13:00:00"
-end_date = "2018-02-15T00:00:00"
-end_date_plan = "2018-02-15T00:00:00"
+end_date = "2018-03-08T13:00:00"
+end_date_plan = "2018-03-08T13:00:00"
 genesis_address = [""]
 funding_terms = "https://dogezer.com/"
 funding_url = "https://dogezer.com/"
@@ -71,13 +71,6 @@ type = "twitter"
 name = "Twitter"
 url = "https://twitter.com/dogezerCom"
 icon = "twitter.png"
-tags = ["News"]
-
-[[links]]
-type = "slack"
-name = "Dogezer Slack"
-url = "https://slackpass.io/dogezer"
-icon = "slack.png"
 tags = ["News"]
 
 [[links]]
